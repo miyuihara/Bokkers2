@@ -1,0 +1,2 @@
+module PrifileImagesHelper
+end
